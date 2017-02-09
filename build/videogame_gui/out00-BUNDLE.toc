@@ -1,0 +1,3 @@
+([('videogame_gui',
+   '/Users/ricardochejfec/Programming/python_gui/qt5_practice/videogame/dist/videogame_gui',
+   'EXECUTABLE')],)
